@@ -1,0 +1,22 @@
+.intl-tel-input.allow-dropdown input, .intl-tel-input.allow-dropdown input[type=text], .intl-tel-input.allow-dropdown input[type=tel] {
+  width: 28.9rem;
+  height: 3.5rem;
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding-right: 6px;
+  padding-left: 52px;
+  margin-left: 0;
+ }
+
+ .MuiButton-label {
+  background-color: #336dff;
+  width: 100%;
+  padding: 10px 24px;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+}
